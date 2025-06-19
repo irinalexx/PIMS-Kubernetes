@@ -5,7 +5,7 @@ A full-stack web application that enables residents to register public issues an
 ## 🛠️ Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS, Vite
-- **Backend**: Firebase Authentication & Firestore
+- **Backend**: Firebase Authentication & Firestore & Firebase Realtimedb
 - **Cloud Functions**: Node.js (for notifications and backend logic)
 - **DevOps**: Docker, Kubernetes (Minikube), GitHub
 - **Extras**: Firebase Realtime DB, SMS API integration, Firebase Hosting
